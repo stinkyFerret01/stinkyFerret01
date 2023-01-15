@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christophe</h1>
 <h3 align="center">A passionate React developer from Paris</h3>
-<div backgroundColor="red">
+<div color="red">
   <p>hello</p>
 </div>
 <h3 align="left">Connect with me:</h3>
